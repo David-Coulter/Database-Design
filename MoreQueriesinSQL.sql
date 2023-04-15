@@ -1,6 +1,3 @@
-REM   Script: morequeries.sql
-REM   Assignment 4
-
 create table MOVIE 
 ( 
     MOVIEID INTEGER                not null, 
